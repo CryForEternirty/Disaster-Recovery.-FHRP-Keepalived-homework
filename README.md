@@ -15,7 +15,7 @@
 ![rt2](image-2.png)
 3. test ping 192.168.1.50
 ![test ping](image-3.png)
-4. [disaster_recovery](disasterRecoveryHW.pkt)
+4. [PKT file](disasterRecoveryHW.pkt)
 
 ------
 
